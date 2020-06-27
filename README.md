@@ -239,11 +239,11 @@ See [examples/navigation](examples/navigation) for more details about usage.
 
 ### [Clock App](https://github.com/raphamorim/react-tv/tree/master/examples/clock-app)
 
-![Clock App Example](examples/clock-app/screenshot.png)
+[Clock App Example](examples/clock-app/screenshot.png)
 
 ### [Youtube App](https://github.com/dead/react-key-navigation/tree/master/examples/youtube-react-tv)
 
-![Youtube App Example](https://raw.githubusercontent.com/dead/react-key-navigation/master/examples/youtube-react-tv/example.gif)
+[Youtube App Example](https://raw.githubusercontent.com/dead/react-key-navigation/master/examples/youtube-react-tv/example.gif)
 
 ## References:
 
