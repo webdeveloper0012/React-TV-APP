@@ -97,7 +97,7 @@ $ yarn global add react-tv-cli
 
 ### Developing for WebOS
 
-<p align="center"><img src="http://ksassets.timeincuk.net/wp/uploads/sites/54/2015/07/lg-webOS-2-0-2015-Main-1.jpg" /></p>
+//<p align="center"><img src="http://ksassets.timeincuk.net/wp/uploads/sites/54/2015/07/lg-webOS-2-0-2015-Main-1.jpg" /></p>
 
 **Short Description:** WebOS, also known as Open WebOS or LG WebOS, (previously known as HP WebOS and Palm WebOS, stylized as webOS) is a Linux kernel-based multitasking operating system for smart devices such as Smart TVs and it has been used as a mobile operating system.
 
