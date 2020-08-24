@@ -97,7 +97,7 @@ $ yarn global add react-tv-cli
 
 ### Developing for WebOS
 
-<p align="center"><img src="http://ksassets.timeincuk.net/wp/uploads/sites/54/2015/07/lg-webOS-2-0-2015-Main-1.jpg" /></p>
+<p align="center"><im src="http://ksassets.timeincuk.net/wp/uploads/sites/54/2015/07/lg-webOS-2-0-2015-Main-1.jpg" /></p>
 
 **Short Description:** WebOS, also known as Open WebOS or LG WebOS, (previously known as HP WebOS and Palm WebOS, stylized as webOS) is a Linux kernel-based multitasking operating system for smart devices such as Smart TVs and it has been used as a mobile operating system.
 
@@ -239,11 +239,11 @@ See [examples/navigation](examples/navigation) for more details about usage.
 
 ### [Clock App](https://github.com/raphamorim/react-tv/tree/master/examples/clock-app)
 
-![Clock App Example](examples/clock-app/screenshot.png)
+[Clock App Example](examples/clock-app/screenshot.png)
 
 ### [Youtube App](https://github.com/dead/react-key-navigation/tree/master/examples/youtube-react-tv)
 
-![Youtube App Example](https://raw.githubusercontent.com/dead/react-key-navigation/master/examples/youtube-react-tv/example.gif)
+[Youtube App Example](https://raw.githubusercontent.com/dead/react-key-navigation/master/examples/youtube-react-tv/example.gif)
 
 ## References:
 
